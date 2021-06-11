@@ -1,14 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\user\Desktop\Моя жизнь\sql\sqlite3.def</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\user\Desktop\Моя жизнь\sql\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\user\Desktop\Моя жизнь\sql\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,=C:\Users\user\Downloads\Telegram Desktop\VirtualTreeView\INSTALL.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,=C:\Users\user\Desktop\Моя жизнь\sql\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\user\Desktop\Моя жизнь\sql\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.270,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.725,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\user\Desktop\Моя жизнь\sql\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\user\Desktop\Моя жизнь\sql\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.019,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\user\Desktop\Моя жизнь\sql\Project2PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\user\Desktop\Моя жизнь\sql\Project2.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\user\Desktop\Моя жизнь\sql\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.489,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.588,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\user\Desktop\Моя жизнь\sql\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\user\Desktop\Моя жизнь\sql\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\user\Desktop\Моя жизнь\sql\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,=C:\Users\user\Downloads\Telegram Desktop\VirtualTreeView\Changes.txt</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=C:\Users\user\Desktop\Моя жизнь\sql\sqlite3.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.925,=C:\Users\user\Desktop\Моя жизнь\sql\sqlite3ext.h</Transaction>
   </Transactions>
 </BorlandProject>
